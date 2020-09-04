@@ -1,13 +1,13 @@
 #cachorro {
-	width: 8em;
+	width: 15em;
 	margin-top: 400px;
 	margin-left: 100px;
 }
 
 #casa {
-	width: 8em;
+	width: 20em;
 	position: absolute;
-	top: 300px;
+	top: 250px;
 	left: 900px;
 }
 
